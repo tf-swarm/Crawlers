@@ -1,0 +1,15 @@
+Accept: '*/*'
+Accept-Language: zh-CN,zh;q=0.9
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA
+content-type: application/json
+cookie: kdt=Co7XaUdcaBkU1yb4ivNhYBjNYJgLeajcfWVwGwuL; des_opt_in=Y; g_state={"i_l":0}; guest_id=v1%3A164266610098620572; auth_token=b58d9025c40ee85cdcbbc76160f24c8a4a979736; twid=u%3D1405448463018459141; ct0=b4b7466770287523c3dd07a1918bda30773bedecc7f6f28d2cfcaba14a2c7cf383181fc0ec80abe687b06121ae9bfa1b886c2b42f726bc4d6c11caaf1ccf69f9ed5d5709cdf634aec8c155ee27471f65; personalization_id="v1_+SVXnfPguhxWQTJfORPe0A=="; guest_id_marketing=v1%3A164266610098620572; guest_id_ads=v1%3A164266610098620572; _gcl_au=1.1.262544057.1650357377; lang=en; at_check=true; _twitter_sess=BAh7CyIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCDbPBnGBAToMY3NyZl9p%250AZCIlNGViMDQwMTc2NzI1YzAzMDYxODUyOGY5NDM1YmM4YjE6B2lkIiU4ZDI1%250AMTU5ZWQ2YjY0NTdiMGEyNTExMWNmNTY4MTA4YTofbGFzdF9wYXNzd29yZF9j%250Ab25maXJtYXRpb24iFTE2NTU0NTg3ODY5NzMwMDA6HnBhc3N3b3JkX2NvbmZp%250Acm1hdGlvbl91aWQiGDE0MDU0NDg0NjMwMTg0NTkxNDE%253D--17a011b0dfc1d39b74267a147b69f2794cabccec; last-link-doorway=/content/help-twitter/en/managing-your-account/locked-and-limited-accounts.html; _gid=GA1.2.1461261608.1655781097; external_referer=padhuUp37zi7hqV4EQRUSdeHq9rnxN6g|0|8e8t2xd8A2w%3D; _ga_34PHSZMC42=GS1.1.1655892051.8.0.1655892078.0; mbox=PC#a217160272fd49a1b769bde6412abfd5.38_0#1719137390|session#aea9141d9e5a408db4e9ea37115bf9ba#1655894450; _ga_BYKEBDM7DS=GS1.1.1655892086.3.1.1655892596.0; _ga=GA1.2.518083769.1649744730
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+x-csrf-token: b4b7466770287523c3dd07a1918bda30773bedecc7f6f28d2cfcaba14a2c7cf383181fc0ec80abe687b06121ae9bfa1b886c2b42f726bc4d6c11caaf1ccf69f9ed5d5709cdf634aec8c155ee27471f65
+x-twitter-active-user: 'yes'
+x-twitter-client-language: en
+#twitter:
+#  - elonmusk
+#  - VitalikButerin
